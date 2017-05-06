@@ -7,5 +7,6 @@ public class TestMain {
 		for(int xy : arr){
 			System.out.println("Print Value:"+xy);
 		}
+		System.out.println("Welcom");
 	}
 }
