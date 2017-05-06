@@ -7,7 +7,7 @@ public class TestMain {
 		for(int xy : arr){
 			System.out.println("Print Value:"+xy);
 		}
-		System.out.println("Welcome");
+		System.out.println("Welcome!");
 		System.out.println("Issath");
 	}
 }
